@@ -27,4 +27,8 @@ The table above describes the differences in ride-sharing data among the differe
 
 The data illustrates there are large discrepancies between total rides, total drivers, total fares, average fare perride and driver, and total fare by city type. Based on the data we analyzed, I have three recommendations for the CEO of PyBer.
 
-1. 
+1. Increase the number of drivers in rural cities. If the number of total drivers increased, the average fare price per ride should decrease. To help actuate this goal, I also suggest better marketing of ride sharing services in rural cities. Rural areas are, on average, poorer than other city types, and if ride-sharing became more popular in rural areas, it would greatly help the poorer communities have affordable ride-share access.
+
+2. Decrease the total drivers in urban cities. There are a total of 2,405 urban drivers and the total ride count is 1,625. The total number of drivers should not exceed the total number of rides by that much. Clearly, there are too many drivers in urban cities and PyBer should decrease the amount of total drivers until the demand for them arises.
+
+3. Amalyze the number of rides that are taken within a certain city type and the rides that are taken between two or more city types. I am curious to see if there is a need for drivers to take customers from rural areas to ubran areas and vice versa. I believe that collecting and analyzing that data would be beneficial to PyBer as a whole. For example, if there was a trend of riders from rural areas driving to and from urban areas, the price per fare should reflect this. 
