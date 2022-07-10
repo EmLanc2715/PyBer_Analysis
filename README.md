@@ -1,5 +1,5 @@
- and er_Analysis
-Python, Jupyter Notebook, and Matplotlib
+PyBer_Analysis
+#### Python, Jupyter Notebook, and Matplotlib
 
 ## Overview
 
@@ -10,6 +10,7 @@ Specifically, Omar and mylsef created a summary DataFrame of ride-share data by 
 ## Results
 
 Pyber Summary Data
+
 (![Pyber_summary_df](https://user-images.githubusercontent.com/101427781/178148189-1a303e0a-966a-4b37-ba9a-0ae379165976.png)
 
 The table above describes the differences in ride-sharing data among the different city types. The most noteable differences among the city types are as follows:
@@ -22,4 +23,4 @@ The table above describes the differences in ride-sharing data among the differe
 
  4. Rural cities also had the highest average fare per driver ($55.49) compared to suburban ($39.50) and urban ($16.57) fares per driver.
   
-## Summary)
+## Summary
